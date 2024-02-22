@@ -1,5 +1,5 @@
 
-**Tech Layoffs Analysis Project README**
+**Tech Layoffs Analysis Project**
 
 ---
 
