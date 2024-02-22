@@ -1,2 +1,2 @@
 # BusinessAnalytics_MGT542
-Course Work on Business Analytics as Part of Academics in Masters
+This repository contains the academic projects completed as part of coursework. The projects cover a range of topics on Microsoft Excel and Tableau and demonstrate practical implementation of concepts learned during the coursework.
